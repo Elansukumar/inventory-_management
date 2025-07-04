@@ -1,1 +1,1 @@
-# inventory-_management
+# inventory_management
